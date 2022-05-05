@@ -1,10 +1,7 @@
-import { Widget } from "./components/widget";
+import { Widget } from "./components/Widget";
 
 export function App() {
   return (
-    <>
-      <Widget />
-      <h1>Hello word</h1>
-    </>
+    <Widget />
   )
 }
